@@ -11,7 +11,7 @@ const aboutData: AboutData = {
   info: (
     <>
       <p>
-        Ladies and Gentlemen, my name is Poopy Bella, and I am very not funny.
+        Hello! My name is Bella and I am from Boulder, Colorado. I am an introvert at heart but with some extroverted qualities. I love to meet new people and take risks: Whether it be through learning new things, pushing myself outside of my comfort zone or challenging myself to grow.
       </p>
       <p>
         I absolutely love learning new skills and challenging myself in
