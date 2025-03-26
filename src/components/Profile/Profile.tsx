@@ -16,15 +16,15 @@ interface ProfileData {
  */
 const profileData: ProfileData = {
   typewriterName: [
-    "Heyo peeps, I'm Will.",
-    "I love to learn.",
-    "William De Rocco :)",
+    "What's up I'm Bella",
+    "I love to play basketball and sing.",
+    "Isabella Chang :)",
   ],
-  graduatingClass: 2025,
-  majorMinor: "B.A. in Computer Science, Minor in Economics",
+  graduatingClass: 2028,
+  majorMinor: "B.A. in Computer Science and Economics",
   websiteHref: "https://github.com/wderocco8",
   imgSrc: "/images/profile/profile.jpeg",
-  currentPosition: "Teaching Assistant for cs412 (Full-Stack Applications)"
+  currentPosition: "Student at Boston University"
 };
 
 /**
